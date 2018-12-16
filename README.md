@@ -26,6 +26,6 @@ The terrain is statically placed, but is dinamically decorated. You'll see that 
 
 ### Sound and music
 
-It's been a while that i've made this game. Don't ask me why i used an external library for it.
+It's been a while. Back then i didn't grasp the concept of AudioLines, Mixers and Clips, which is why i used an external library for it.
 
-The songs are some obscure 16-bit FM tracks that I've ripped and converted into OGG files. They didn't have any artist or track information (and I'm afraid i don't even have the original files anymore).
+The songs are some obscure 16-bit FM tracks that I've ripped and converted into OGG files. ~~They didn't have any artist or track information (and I'm afraid i don't even have the original files anymore).~~ I actually found the files and found out the soundtrack came from a RPG game called Whale's Voyage, released in 1993. The track used in the game is called "Inoid", and was composed by Hannes Seifert. Sorry!
