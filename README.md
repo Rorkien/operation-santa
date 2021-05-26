@@ -4,7 +4,7 @@ Operation Santa is a Christmas-themed platformer that I've made for the 2012 hol
 
 It's strongly inspired by the masterpiece platformers from the 90's, such as **Commander Keen** and **Jill of the Jungle**. In 6 levels of snowball-packed action, you'll need to save Christmas from the Grinch and his thugs that kidnapped your elf helpers.
 
-![Be advised, i have a stock of snowballs and i'm not afraid to use 'em!](http://rorkien.s3.amazonaws.com/opsanta/opsanta-action.png)
+![Be advised, i have a stock of snowballs and i'm not afraid to use 'em!](game.png)
 
 ## Technical info
 
